@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi, Everyone 👋
 
+<br>
+
+- 🔭 I’m currently student of Electrical Engineering at [Universitas Gadjah Mada](ugm.ac.id)
+- 🌱 I’m currently learning Machine Learning, Control System, and Industrial Automation
+- 📫 How to reach me: just [mail me](yusronizzafaradisa@gmail.com) or visit my [Linkedin](linkedin.com/yusronizza) page
+- ❤️ Science, Technology, and Engineering
+
+<br>
+
+🏠 Bantul, Yogyakarta, Indonesia
 <!--
 **yusronizza/yusronizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
