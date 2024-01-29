@@ -2,8 +2,8 @@
 
 <br>
 
-- 🔭 I’m currently student of Electrical Engineering at [Universitas Gadjah Mada](ugm.ac.id)
-- 🌱 I’m currently learning Machine Learning, Control System, and Industrial Automation
+- 🔭 Student of Electrical Engineering minor in Computer Engineering at [Universitas Gadjah Mada](ugm.ac.id)
+- 🌱 I’m currently learning Computer, Network, Machine Learning, and Industrial Automation
 - 📫 How to reach me: just [mail me](yusronizzafaradisa@gmail.com) or visit my [Linkedin](linkedin.com/yusronizza) page
 - ❤️ Science, Technology, and Engineering
 
